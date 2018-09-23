@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>444868864996-quoul3qltu3l8bqhk314qtmuhh57heuo.apps.googleusercontent.com</string>
+	<string>622985600840-5cv0pkvrio91ur8a6nt47eh5chnbv2su.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.444868864996-quoul3qltu3l8bqhk314qtmuhh57heuo</string>
+	<string>com.googleusercontent.apps.622985600840-5cv0pkvrio91ur8a6nt47eh5chnbv2su</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBdCe7hHFCDjLaj6qxL--45eTqMOrYrJQ0</string>
+	<string>AIzaSyDUc-H164Ng1CQrh30_aT_HaCSJSj33ccE</string>
 	<key>GCM_SENDER_ID</key>
-	<string>444868864996</string>
+	<string>622985600840</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.effit.app</string>
+	<string>com.latam.quiz</string>
 	<key>PROJECT_ID</key>
-	<string>effit-app</string>
+	<string>latam-quiz</string>
 	<key>STORAGE_BUCKET</key>
-	<string>effit-app.appspot.com</string>
+	<string>latam-quiz.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:444868864996:ios:26962be5cee8e50b</string>
+	<string>1:622985600840:ios:850b7fb97ce2bca8</string>
 	<key>DATABASE_URL</key>
-	<string>https://effit-app.firebaseio.com</string>
+	<string>https://latam-quiz.firebaseio.com</string>
 </dict>
 </plist>
