@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>821705159877-bo8c1vuoasjvru4u1jsd76hf4pd10qht.apps.googleusercontent.com</string>
+	<string>751567943339-2grentfd493mdpmfjqhhl4o639es357c.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.821705159877-bo8c1vuoasjvru4u1jsd76hf4pd10qht</string>
+	<string>com.googleusercontent.apps.751567943339-2grentfd493mdpmfjqhhl4o639es357c</string>
 	<key>API_KEY</key>
-	<string>AIzaSyABZ4j2lwIC_v7rTWZ-LuK48QOZXDg42Ts</string>
+	<string>AIzaSyByQxLYI5gWvy5kAzOtgnATtfhNif51m7k</string>
 	<key>GCM_SENDER_ID</key>
-	<string>821705159877</string>
+	<string>751567943339</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.option.mipata</string>
+	<string>org.nativescript.CamionGo</string>
 	<key>PROJECT_ID</key>
-	<string>mi-pata-app</string>
+	<string>camiongo2018</string>
 	<key>STORAGE_BUCKET</key>
-	<string>mi-pata-app.appspot.com</string>
+	<string>camiongo2018.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:821705159877:ios:57b766d03232df8c</string>
+	<string>1:751567943339:ios:e3ae878a87370cfe</string>
 	<key>DATABASE_URL</key>
-	<string>https://mi-pata-app.firebaseio.com</string>
+	<string>https://camiongo2018.firebaseio.com</string>
 </dict>
 </plist>
