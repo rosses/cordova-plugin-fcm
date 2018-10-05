@@ -7,34 +7,34 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>821705159877-bo8c1vuoasjvru4u1jsd76hf4pd10qht.apps.googleusercontent.com</string>
+	<string>602907551697-jt7enda5jri8jg1pmq8667k0dl9m6le9.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.821705159877-bo8c1vuoasjvru4u1jsd76hf4pd10qht</string>
+	<string>com.googleusercontent.apps.602907551697-jt7enda5jri8jg1pmq8667k0dl9m6le9</string>
 	<key>API_KEY</key>
-	<string>AIzaSyABZ4j2lwIC_v7rTWZ-LuK48QOZXDg42Ts</string>
+	<string>AIzaSyDBj7_KV9btxAmm0_e3r2Flb-R6TRvobRA</string>
 	<key>GCM_SENDER_ID</key>
-	<string>821705159877</string>
+	<string>602907551697</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.option.mipata</string>
+	<string>com.option.mipatatest</string>
 	<key>PROJECT_ID</key>
-	<string>mi-pata-app</string>
+	<string>mi-pata-tester</string>
 	<key>STORAGE_BUCKET</key>
-	<string>mi-pata-app.appspot.com</string>
+	<string>mi-pata-tester.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
 	<false></false>
 	<key>IS_APPINVITE_ENABLED</key>
-	<true></true>
+	<false></false>
 	<key>IS_GCM_ENABLED</key>
 	<true></true>
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:821705159877:ios:57b766d03232df8c</string>
+	<string>1:602907551697:ios:fc1f9eebb2a502cf</string>
 	<key>DATABASE_URL</key>
-	<string>https://mi-pata-app.firebaseio.com</string>
+	<string>https://mi-pata-tester.firebaseio.com</string>
 </dict>
 </plist>
