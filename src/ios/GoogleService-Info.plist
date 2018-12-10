@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>816285298113-hm2otbogg0l6akh2oda384fuhtalcg39.apps.googleusercontent.com</string>
+	<string>386202456071-d870mpommaaa2gf8u0mgss54n43ivitu.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.816285298113-hm2otbogg0l6akh2oda384fuhtalcg39</string>
+	<string>com.googleusercontent.apps.386202456071-d870mpommaaa2gf8u0mgss54n43ivitu</string>
 	<key>API_KEY</key>
-	<string>AIzaSyC-PE5hREqj_biARUECrUrq61eyEZ_TRBU</string>
+	<string>AIzaSyDNRMajB1XOcwMsKxZifYQza0PKbfXJg7Y</string>
 	<key>GCM_SENDER_ID</key>
-	<string>816285298113</string>
+	<string>386202456071</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.desafiosapp.online</string>
+	<string>com.greenapp.app</string>
 	<key>PROJECT_ID</key>
-	<string>desafios-app</string>
+	<string>greenapp-38af1</string>
 	<key>STORAGE_BUCKET</key>
-	<string>desafios-app.appspot.com</string>
+	<string>greenapp-38af1.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:816285298113:ios:b33d81c2cdf6e1eb</string>
+	<string>1:386202456071:ios:75e2e353849808be</string>
 	<key>DATABASE_URL</key>
-	<string>https://desafios-app.firebaseio.com</string>
+	<string>https://greenapp-38af1.firebaseio.com</string>
 </dict>
 </plist>
