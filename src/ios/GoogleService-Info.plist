@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>386202456071-d870mpommaaa2gf8u0mgss54n43ivitu.apps.googleusercontent.com</string>
+	<string>995947802792-lpk9koaqhb6vgkfta5fucpndec1nj83m.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.386202456071-d870mpommaaa2gf8u0mgss54n43ivitu</string>
+	<string>com.googleusercontent.apps.995947802792-lpk9koaqhb6vgkfta5fucpndec1nj83m</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDNRMajB1XOcwMsKxZifYQza0PKbfXJg7Y</string>
+	<string>AIzaSyAVGFRCSDMrOSncLYr2aCkh0H-wQYFSE8c</string>
 	<key>GCM_SENDER_ID</key>
-	<string>386202456071</string>
+	<string>995947802792</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.greenapp.app</string>
+	<string>cl.quizapp.app</string>
 	<key>PROJECT_ID</key>
-	<string>greenapp-38af1</string>
+	<string>quizapp-6ec36</string>
 	<key>STORAGE_BUCKET</key>
-	<string>greenapp-38af1.appspot.com</string>
+	<string>quizapp-6ec36.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:386202456071:ios:75e2e353849808be</string>
+	<string>1:995947802792:ios:d93ea923bdfee56a</string>
 	<key>DATABASE_URL</key>
-	<string>https://greenapp-38af1.firebaseio.com</string>
+	<string>https://quizapp-6ec36.firebaseio.com</string>
 </dict>
 </plist>
