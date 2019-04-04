@@ -1,5 +1,4 @@
 ext.postBuildExtras = {
-    apply plugin: 'java'
 
     android {
         buildToolsVersion "26.0.2"
