@@ -2,9 +2,6 @@ ext.postBuildExtras = {
     apply plugin: 'java'
 
     android {
-        minSdkVersion 15
-        targetSdkVersion 26
-        compiledSdkVersion 26
         buildToolsVersion "26.0.2"
 
 		dexOptions {
