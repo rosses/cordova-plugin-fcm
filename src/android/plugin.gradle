@@ -1,5 +1,6 @@
 ext.postBuildExtras = {
     android {
+    	buildToolsVersion "26.0.1"
         compileOptions {
             sourceCompatibility JavaVersion.VERSION_1_7
             targetCompatibility JavaVersion.VERSION_1_7
